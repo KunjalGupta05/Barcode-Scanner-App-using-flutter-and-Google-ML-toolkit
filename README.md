@@ -1,0 +1,1 @@
+# Barcode-Scanner-App-using-flutter-and-Google-ML-toolkit
